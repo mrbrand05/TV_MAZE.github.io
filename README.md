@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+#DEPLOYED_LINK https://mrbrand05.github.io/TV_MAZE.github.io/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
